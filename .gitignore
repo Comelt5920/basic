@@ -3,3 +3,6 @@ exercise/canned_fish.exe
 exercise/drive.exe
 exercise/register.exe
 
+*.exe
+exercise/tempCodeRunnerFile.c
+exercise/.vscode/settings.json
